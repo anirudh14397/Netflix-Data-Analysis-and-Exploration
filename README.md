@@ -1,8 +1,8 @@
 # Netflix-Data-Analysis-and-Exploration
 
-##Goal: Exploratory data analysis and visualisation of Netflix data to find insights which help in taking data driven decisions.
+**Goal**: Exploratory data analysis and visualisation of Netflix data to find insights which help in taking data driven decisions.
 
-##Insights:
+**Insights:**
   There are more Movies than TV shows on Netflix. In fact, movies are approximately double of TV Shows.
   Most number of Movies were added in 2019 whereas most of the TV Shows were added in 2019 & 2020.
   United States have the most number of content followed by India.
@@ -19,7 +19,7 @@
   Most of the TV Shows have only one season.
   Rob Seidenglanz has directed most number of TV Shows.
   
-##Recommendations:
+**Recommendations:**
   In recent years, there has been increase in demand for content, most of the content is from last 5 years
   As compared to 1940s and todays time most of the movies are of length 104 mins whereas in earlier short movies were popular.
   The best time to launch both TV shows and Movies is mid year.
