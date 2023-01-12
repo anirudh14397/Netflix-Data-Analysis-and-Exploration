@@ -20,14 +20,14 @@
   * Rob Seidenglanz has directed most number of TV Shows.
   
 **Recommendations:**
-  In recent years, there has been increase in demand for content, most of the content is from last 5 years
-  As compared to 1940s and todays time most of the movies are of length 104 mins whereas in earlier short movies were popular.
-  The best time to launch both TV shows and Movies is mid year.
-  Most of the content is coming from US and India. Company can target country based content.
-  There has been huge increase in International Tv shows and movies.
-  Anupam Kher has acted in most number of International Netflix movies followed by Drama.
-  Takahiro Sakurai has acted in most number of Anime Series.
-  Cathy Garcia-Molina has directed most number of Intenational Movies
-  Cathy Garcia-Molina has worked most with Joross Gamboa
-  Netflix has more mature content because they are no censorship restrictions on OTT Platforms.
-  Rob Seidenglanz has directed most number of Crime TV Shows.
+  * In recent years, there has been increase in demand for content, most of the content is from last 5 years
+  * As compared to 1940s and todays time most of the movies are of length 104 mins whereas in earlier short movies were popular.
+  * The best time to launch both TV shows and Movies is mid year.
+  * Most of the content is coming from US and India. Company can target country based content.
+  * There has been huge increase in International Tv shows and movies.
+  * Anupam Kher has acted in most number of International Netflix movies followed by Drama.
+  * Takahiro Sakurai has acted in most number of Anime Series.
+  * Cathy Garcia-Molina has directed most number of Intenational Movies
+  * Cathy Garcia-Molina has worked most with Joross Gamboa
+  * Netflix has more mature content because they are no censorship restrictions on OTT Platforms.
+  * Rob Seidenglanz has directed most number of Crime TV Shows.
